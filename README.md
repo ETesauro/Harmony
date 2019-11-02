@@ -1,2 +1,0 @@
-# Harmony
-My TSW Project.
